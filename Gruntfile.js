@@ -15,7 +15,7 @@ module.exports = function(grunt) {
       }
     },
 
-    aws: grunt.file.readJSON('aws_creds.json'), // Read the file
+    // aws: grunt.file.readJSON('aws_creds.json'), // Read the file
 
     aws_s3: {
       options: {
