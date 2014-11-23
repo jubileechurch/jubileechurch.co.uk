@@ -1,0 +1,12 @@
+{
+  "locals": {
+    "title": "Jubilee Church"
+  },
+  "plugins": [
+    "./node_modules/wintersmith-handlebars/wintersmith-handlebars.coffee",
+    "./node_modules/wintersmith-jade/plugin.coffee"
+  ],
+  "require": {
+  	"_": "underscore"
+  }
+}

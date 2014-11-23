@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "moment": "2.3.x",
+    "underscore": "1.4.x",
+    "typogr": "0.5.x",
+    "wintersmith-handlebars": "0.0.3"
+  },
+  "repository": "none",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-aws-s3": "^0.9.4",
+    "grunt-cli": "^0.1.13",
+    "grunt-wintersmith": "0.0.2",
+    "wintersmith-jade": "^0.1.0"
+  }
+}

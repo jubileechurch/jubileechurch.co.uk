@@ -1,0 +1,28 @@
+extends layout
+
+block title
+  = page.title
+
+block content
+  .j-homepage
+    #fb-root
+      script.
+        (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+    .jumbotron.j-headliner
+      .container
+        .row
+          .col-sm-12
+            h1="Jubilee Church"
+        .row
+          .col-sm-4.strapline
+            .label="Loving God"
+          .col-sm-4.strapline
+            .label="Loving People"
+          .col-sm-4.strapline
+            .label="Loving Life"
+    .container
+      .row
+        .col-sm-6
+          != page.html
+        .col-sm-6
+          .fb-like-box(data-href="https://www.facebook.com/JubileeChurchBromley", data-colorscheme="light", data-show-faces="false", data-header="false", data-stream="true", data-show-border="true", data-width="485", data-height="500" style="padding-bottom: 20px; height: 500px")

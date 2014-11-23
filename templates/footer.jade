@@ -1,0 +1,41 @@
+footer
+  .container 
+    .foot-lines.row
+      p
+        |Jubilee Church is in partnership with <a href="http://www.pioneer.org.uk/">Pioneer</a>,<br/> and a member of the <a href="http://www.eauk.org/">Evangelical Alliance</a>.<br/> 
+        |Charitable Incorporated Organisation, Registered Charity No 1154108.
+      p
+        |<strong>Tel</strong> 0208 249 2801<br/> 
+        |<strong>E-mail</strong> <a href="mailto:info@jubileechurch.co.uk">info@jubileechurch.co.uk</a><br/> 
+        |<strong>Address</strong> <a href="/pages/find-and-contact-us/#our-location">157 Southlands Road, Bromley, Kent, BR2 9QZ</a>
+    .row.footer-menu
+      ul
+        each pair in _.sortBy(_.pairs(contents.pages),function(pair){ return pair[1]["index.md"].metadata.weight ? pair[1]["index.md"].metadata.weight : 0; })
+          - var sectionName = pair[0]
+          - var section = pair[1]
+          - var section = contents.pages[sectionName]
+          - var indexPage = section["index.md"]
+          if (indexPage)
+            - var hasIndexContent = indexPage.markdown.trim() != ""
+            li(class= "col-sm-" + (indexPage.title == "What We Do" ? "8" : "2"))
+              if (hasIndexContent)
+                a(href=indexPage.getUrl("/"))=indexPage.title
+              else 
+                p=indexPage.title
+              ul
+                each subSectionName in _.keys(section).sort()
+                  - var subSection = section[subSectionName]
+                  if (subSection != indexPage)
+                    - var subSectionIndexPage = subSection["index.md"]
+                    if (subSectionIndexPage)
+                      li.col-sm-3
+                        a(href=subSectionIndexPage.getUrl("/"))=subSectionIndexPage.title
+                        ul
+                          each subSubSectionName in _.keys(subSection).sort()
+                            - var subSubSection = subSection[subSubSectionName]
+                            if (subSubSection != subSectionIndexPage)
+                              li
+                                a(href=subSectionIndexPage.getUrl("/")+"#"+subSubSectionName.split(".")[0])=subSubSection.title
+                    else
+                      li
+                        a(href=indexPage.getUrl("/")+"#"+subSectionName.split(".")[0])=subSection.title

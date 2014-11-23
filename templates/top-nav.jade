@@ -1,0 +1,32 @@
+.navbar.navbar-default.navbar-fixed-top.navbar-j(role='navigation')
+  .container
+    .navbar-header
+      button.navbar-toggle(type='button', data-toggle='collapse', data-target='.navbar-collapse')
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+      a.navbar-brand(href='/')= title
+    .collapse.navbar-collapse
+      ul.nav.navbar-nav
+        each pair in _.sortBy(_.pairs(contents.pages),function(pair){ return pair[1]["index.md"].metadata.weight ? pair[1]["index.md"].metadata.weight : 0; })
+          - var sectionName = pair[0]
+          - var section = pair[1]
+          - var indexPage = section["index.md"]
+          if (indexPage)
+            - var hasIndexContent = indexPage.markdown.trim() != ""
+            li
+              if (hasIndexContent)
+                a(href=indexPage.getUrl("/"))=indexPage.title
+              else 
+                a.dropdown-toggle(href='#',data-toggle="dropdown")
+                  =indexPage.title
+                  b.caret
+                ul.dropdown-menu
+                  each subSectionName in _.keys(section).sort()
+                    - var subSection = section[subSectionName]
+                    if (subSection != indexPage)
+                      - var subSectionIndexPage = subSection["index.md"]
+                      li
+                        a(href=subSectionIndexPage.getUrl("/"))=subSectionIndexPage.title
+
