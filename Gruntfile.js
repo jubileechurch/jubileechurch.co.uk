@@ -15,12 +15,10 @@ module.exports = function(grunt) {
       }
     },
 
-    // aws: grunt.file.readJSON('aws_creds.json'), // Read the file
-
     aws_s3: {
       options: {
-        accessKeyId: '<%= aws.AWSAccessKeyId %>', // Use the variables
-        secretAccessKey: '<%= aws.AWSSecretKey %>', // You can also use env variables
+        accessKeyId: process.env.AWSAccessKeyId,
+        secretAccessKey: process.env.AWSSecretKey,
         region: 'eu-west-1',
         uploadConcurrency: 5, // 5 simultaneous uploads
         downloadConcurrency: 5 // 5 simultaneous downloads
