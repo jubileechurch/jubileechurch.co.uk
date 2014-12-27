@@ -23,24 +23,15 @@ module.exports = function(grunt) {
         uploadConcurrency: 5, // 5 simultaneous uploads
         downloadConcurrency: 5 // 5 simultaneous downloads
       },
-      staging: {
+      deploy: {
         options: {
-          bucket: 'staging.jubileechurch.co.uk',
+          bucket: process.env.TRAVIS_BRANCH + '.jubileechurch.co.uk',
           differential: true // Only uploads the files that have changed
         },
         files: [
           {expand: true, cwd: 'build/', src: ['**'], dest: '', action: 'upload'}
         ]
       },
-      prod: {
-        options: {
-          bucket: 'www.jubileechurch.co.uk',
-          differential: true // Only uploads the files that have changed
-        },
-        files: [
-          {expand: true, cwd: 'build/', src: ['**'], dest: '', action: 'upload'}
-        ]
-      }
     }
 
   });

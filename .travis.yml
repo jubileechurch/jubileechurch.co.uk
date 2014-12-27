@@ -3,4 +3,4 @@ node_js:
   - "0.10.35"
 before_install: npm install -g grunt-cli
 install: npm install
-before_script: grunt wintersmith:build aws_s3:staging
+before_script: grunt wintersmith:build aws_s3:deploy
