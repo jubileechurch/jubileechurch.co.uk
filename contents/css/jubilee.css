@@ -13,7 +13,7 @@ h1 {
   border-bottom: 3px solid #ffc27e;
   color: #fff;
   background-image: linear-gradient(to bottom, #ff8600 0%, #ffc27e 150%);
-  box-shadow: 0px 3px 20px #bbb;
+  box-shadow: 0px 3px 19px #bbb;
 }
 
 .navbar-j .navbar-brand {
@@ -84,7 +84,7 @@ h6,
     background-repeat: no-repeat;
     background-position: 15px 5px;
     padding-left: 76px;
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .navbar-j .navbar-nav>.open>a,
@@ -176,7 +176,7 @@ footer .foot-lines a:link {
   }
   .navbar-nav>li>a {
       padding: 22px 15px 22px 15px;
-      font-size: 20px;
+      font-size: 19px;
       line-height: inherit;
   }
   .navbar .caret {
@@ -246,7 +246,7 @@ footer .foot-lines a:link {
 }
 .j-headliner .strapline .label {
     padding: 10px 30px;
-    font-size: 20px;
+    font-size: 19px;
     box-shadow: -5px -5px 10px #FFF,5px -5px 10px #FFF,-5px 5px 10px #FFF,5px 5px 10px #FFF;
 }
 .j-headliner .strapline:nth-child(1) .label {
