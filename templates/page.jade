@@ -12,9 +12,9 @@ mixin nav(pageParent)
 
 block content
   - var leftRight = 0
-  .container
+  article.container
     .row
-      .col-md-9.col-md-push-3
+      section.col-md-9.col-md-push-3
         h1.tk-myriad-pro= page.title
         != page.html
       .col-md-3.col-md-pull-9.tk-myriad-pro
@@ -25,10 +25,11 @@ block content
           - var filename = pair[0]
           - var sibling = pair[1]
             if (sibling != page)
-              a.heading-anchor(id=filename.split(".")[0])
-              h1.tk-myriad-pro=sibling.title 
-              if (sibling.metadata && sibling.metadata.image)
-                - leftRight = leftRight + 1
-                div(class='inline-img ' + (leftRight%2==0 ? 'right' : 'left'))
-                  img(src=sibling.metadata.image)
-              !=sibling.html 
+              section
+                a.heading-anchor(id=filename.split(".")[0])
+                h1.tk-myriad-pro=sibling.title 
+                if (sibling.metadata && sibling.metadata.image)
+                  - leftRight = leftRight + 1
+                  div(class='inline-img ' + (leftRight%2==0 ? 'right' : 'left'))
+                    img(src=sibling.metadata.image)
+                !=sibling.html 
