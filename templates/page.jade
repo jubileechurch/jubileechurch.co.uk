@@ -1,24 +1,25 @@
 extends layout
 
 mixin nav(pageParent)
-  ul.nav.nav-pills.nav-stacked.nav-side-j
-    each pair in _.sortBy(_.pairs(pageParent),function(pair){ return pair[1] && pair[1].metadata && pair[1].metadata.weight ? pair[1].metadata.weight : 0; })
-      - var filename = pair[0]
-      - var sibling = pair[1]
-      - var isCurrentPage = sibling == page
-      if (!isCurrentPage)
-        li
-          a(href='#'+filename.split(".")[0])=sibling.title
+  nav
+    ul.nav.nav-pills.nav-stacked.nav-side-j.tk-myriad-pro
+      each pair in _.sortBy(_.pairs(pageParent),function(pair){ return pair[1] && pair[1].metadata && pair[1].metadata.weight ? pair[1].metadata.weight : 0; })
+        - var filename = pair[0]
+        - var sibling = pair[1]
+        - var isCurrentPage = sibling == page
+        if (!isCurrentPage)
+          li
+            a(href='#'+filename.split(".")[0])=sibling.title
 
 block content
   - var leftRight = 0
   article.container
     .row
-      section.col-md-9.col-md-push-3
+      .col-md-3
+        +nav(page.parent)
+      section.col-md-9
         h1.tk-myriad-pro= page.title
         != page.html
-      .col-md-3.col-md-pull-9.tk-myriad-pro
-        +nav(page.parent)
     .row
       .col-md-9.col-md-offset-3 
         each pair in _.sortBy(_.pairs(page.parent),function(pair){ return pair[1] && pair[1].metadata && pair[1].metadata.weight ? pair[1].metadata.weight : 0; })
