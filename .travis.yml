@@ -5,4 +5,4 @@ before_install: npm install -g grunt-cli
 install: npm install
 script: grunt wintersmith:build
 after_script: 
-  -'[ "${TRAVIS_PULL_REQUEST}" = "false" ] && grunt aws_s3:deploy
+  - [ "${TRAVIS_PULL_REQUEST}" = "false" ] && grunt aws_s3:deploy
