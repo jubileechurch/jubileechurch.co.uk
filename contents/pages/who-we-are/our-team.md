@@ -52,7 +52,7 @@ The Trustees are the people responsible for the control and management of a char
         <h3>Clare Holl</h3>
         <p>
           <strong>Leadership Team</strong><br/>
-          <strong>Trustee - Chair</strong><br/>
+          <strong>Trustee</strong><br/>
         </p>
       </div>
     </div>
@@ -64,6 +64,7 @@ The Trustees are the people responsible for the control and management of a char
       <div class="caption">
         <h3>Lisette Broadfoot</h3>
         <p>
+          <strong>Administrator and Youthworker</strong><br/>
           <strong>Leadership Team</strong><br/>
         </p>
       </div>
@@ -112,7 +113,7 @@ The Trustees are the people responsible for the control and management of a char
       <div class="caption">
         <h3>Steve Palmer</h3>
         <p>
-          <strong>Trustee</strong><br/>
+          <strong>Trustee - Chair</strong><br/>
         </p>
       </div>
     </div>
