@@ -4,7 +4,8 @@
   },
   "plugins": [
     "./node_modules/wintersmith-handlebars/wintersmith-handlebars.coffee",
-    "./node_modules/wintersmith-jade/plugin.coffee"
+    "./node_modules/wintersmith-jade/plugin.coffee",
+    "wintersmith-livereload"
   ],
   "require": {
   	"_": "underscore"
