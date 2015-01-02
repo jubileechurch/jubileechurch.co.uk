@@ -275,22 +275,31 @@ footer .foot-lines a:link {
   }
 }
 
+section.secondary {
+  clear: both;
+}
 
-.inline-img {
-  width: 30%;
+section img {
+  max-width: 40%;
   border: 2px solid #ffc27e;
   border-radius: 10px;
-  padding: 10px;
+  padding: 5px;
   margin-bottom: 5px;
 }
-.inline-img.right {
-  float: right;
-  margin-left: 5px;
+
+@media (min-width: 768px) {
+  img:nth-of-type(odd) {
+    float: right;
+    margin-left: 10px;
+  }
+  img:nth-of-type(even) {
+    float: left;
+    margin-right: 10px;
+  }
 }
-.inline-img.left {
-  float: right;
-  margin-left: 5px;
-}
-.inline-img img {
-  width: 100%;
+
+@media (max-width: 768px) {
+  section img {
+    max-width: 100%;
+  }
 }

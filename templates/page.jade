@@ -17,7 +17,7 @@ block content
     .row
       .col-md-3
         +nav(page.parent)
-      section.col-md-9
+      section.col-md-9.primary
         h1.tk-myriad-pro= page.title
         != page.html
     .row
@@ -26,7 +26,7 @@ block content
           - var filename = pair[0]
           - var sibling = pair[1]
             if (sibling != page)
-              section
+              section.secondary
                 a.heading-anchor(id=filename.split(".")[0])
                 h1.tk-myriad-pro=sibling.title 
                 if (sibling.metadata && sibling.metadata.image)
