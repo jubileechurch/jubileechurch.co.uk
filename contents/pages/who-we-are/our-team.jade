@@ -1,0 +1,49 @@
+---
+title: Our Leadership Team
+---
+
+p 
+  | Jubilee Church is led by a team that is headed up by Derek Holl and
+  | collectively they have responsibility for the overall vision and direction of
+  | the Church.  Each member of the leadership team is committed to seeing the local
+  | church growing and working together and is passionate about seeing individuals
+  | empowered and released to serve the community in which we live.  Our desire is
+  | for people, whoever they are and whatever their background, to encounter Jesus
+  | Christ and to experience His love, grace and life for themselves.
+
+h3 Trustees 
+p 
+  | The Trustees are the people responsible for the control and
+  | management of a charity and who serve on its Governing Body.  Trustees have, and
+  | must accept, ultimate responsibility for directing the affairs of a charity and
+  | ensuring that it is solvent, well run and meeting the needs for which it has
+  | been set up. (Quoted from The Charity Commission)
+
+- var derek =    { first: "Derek",    last: "Holl",      img: "derek.jpg",    roles: ["Leadership Team - Head", "Trustee"] }
+- var jackie =   { first: "Jackie",   last: "Mills",     img: "jackie.jpg",   roles: ["Leadership Team"] }
+- var jon =      { first: "Jon",      last: "Mills",     img: "jon.jpg",      roles: ["Trustee"] }
+- var clare =    { first: "Clare",    last: "Holl",      img: "clare.jpg",    roles: ["Leadership Team", "Trustee"] }
+- var lisette =  { first: "Lisette",  last: "Broadfoot", img: "lisette.jpg",  roles: ["Leadership Team", "Administrator", "Youthworker"] }
+- var pip =      { first: "Pip",      last: "Perrin",    img: "pip.jpg",      roles: ["Leadership Team", "Children's Worker"] }
+- var caroline = { first: "Caroline", last: "Kirk",      img: "caroline.jpg", roles: ["Trustee"] }
+- var barney =   { first: "Barney",   last: "Wanstall",  img: "barney.jpg",   roles: ["Trustee"] }
+- var steve =    { first: "Steve",    last: "Palmer",    img: "steve.jpg",    roles: ["Trustee - Chair"] }
+- var carol =    { first: "Carol",    last: "Stephens",                       roles: ["Pastoral Team Leader"] }
+- var leaders = [derek, jackie, jon, clare, lisette, pip, caroline, barney, steve, carol]
+
+.row
+  each person, index in leaders
+    .col-xs-6.col-sm-4
+      .thumbnail
+        if (person.img)
+          img.media-object(src='/img/leaders/'+person.img, alt="#{person.first} #{person.last}'s Photo")
+        .caption
+          h3 #{person.first} #{person.last}
+          p
+            each role in person.roles
+              strong=role
+              br
+    if (index + 1) % 2 == 0
+      .clearfix.visible-xs
+    if (index + 1) % 3 == 0
+      .clearfix.visible-sm.visible-md.visible-lg
