@@ -11,4 +11,4 @@ It was built on the grounds of the old mission, which was in a state of disrepai
 
 The two-storey building was constructed using innovative developments in building design and maximised the square footage available.
 
-From the small mission hall which provided a home for Belmont Mission for many years, the Jubilee Centre now features a 150 seat auditorium, three large separate activity rooms (each with a capacity of 20 seats), a fully fitted industrial standard kitchen, modern audio visual equipment, full disabled access (including a lift to the first floor), ladies and gents facilities and two open-plan lobby areas.
+From the small mission hall which provided a home for Belmont Mission for many years, the Jubilee Centre now features a 120 seat auditorium, two separate activity rooms (each with a capacity of 20 seats), a fully fitted industrial standard kitchen, modern audio visual equipment, full disabled access (including a lift to the first floor), ladies and gents facilities and two open-plan lobby areas.
