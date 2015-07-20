@@ -13,7 +13,7 @@ We have developed good links with other churches in and around the local area an
 Jubilee Church have a growing friendship and relationship with a number of churches across Bromley who believe that God’s favour is upon those who “dwell together in unity”. We come from different backgrounds, we hold a variety of views and opinions and often have different styles of doing church but, we share a common vision of wanting to see the love, grace & power of Jesus shared and released with the whole community across the whole of the borough of Bromley. We seek to connect on the basis of friendship and shared lives and, no matter how good or effective we may be as individual churches, we believe that we can do more together to proclaim and demonstrate the good news of Jesus than we can on our own, so we choose to be together.  Churches that are relating in this way include Bromley Common Baptist, Bromley Town Church, Cornerstone Christian Centre, Christ Church Chislehurst and Jubilee Church.
 
 ### Spinnaker
-[Spinnaker](www.spinnaker.org) is a charity that creates opportunities for children to engage with Christianity. It operates in over 70 schools in a number of London Boroughs, including Bromley. 
+[Spinnaker](http://www.spinnaker.org) is a charity that creates opportunities for children to engage with Christianity. It operates in over 70 schools in a number of London Boroughs, including Bromley. 
 
 Spinnaker has regular contact with over 10,000 children. Jubilee Church provides some financial support to Spinnaker, and is directly involved in its work through members of our church. One of our Core Team leaders, Steve Palmer, is a director of Spinnaker.
 
