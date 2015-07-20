@@ -24,7 +24,7 @@ Jubilee Church is a part of the national [Pioneer network](http://www.pioneer.or
 We are also part of the [Evangelical Alliance](http://www.eauk.org/), an association of churches, reaching across all denominations that uphold the fundamentals of Christianity.
 
 ### DNA
-[DNA](www.dna-uk.org) is a course for Christians who wish to spend a year learning more about living their lives serving God, equipping people for church work, such as leadership and missionary roles. As well as providing practical experience, the course includes training sessions throughout the year. Jubilee Church supports DNA by enabling them to use the Jubilee Centre as a base for the training sessions.
+[DNA](http://www.dna-uk.org) is a course for Christians who wish to spend a year learning more about living their lives serving God, equipping people for church work, such as leadership and missionary roles. As well as providing practical experience, the course includes training sessions throughout the year. Jubilee Church supports DNA by enabling them to use the Jubilee Centre as a base for the training sessions.
 
 ## International links
 Over the years, Jubilee Church has developed relationships with a number of churches and Christian organisations overseas. This includes South Africa, Sri Lanka, India and Indonesia. 
@@ -32,13 +32,13 @@ Over the years, Jubilee Church has developed relationships with a number of chur
 We provide support financially and, where possible, on a practical level through visits to teach or help with projects. We also support one another spiritually through prayer. Here are just some our international links:
 
 ### Operation Mobilisation
-Since the early 1990s, Jubilee Church has supported [Operation Mobilisation](www.uk-om.org), known as OM. Working in more than 100 countries, OM’s aim is to motivate and equip people to share God’s love with others all over the world. We provide financial support and pray for them regularly.
+Since the early 1990s, Jubilee Church has supported [Operation Mobilisation](http://www.uk-om.org), known as OM. Working in more than 100 countries, OM’s aim is to motivate and equip people to share God’s love with others all over the world. We provide financial support and pray for them regularly.
 
 ### Inter-mission Industrial Development Association
 We have provided financial and prayer support for this organisation, which is based in Chennai - the largest metropolitan city in South India. 
 
-The [Inter-mission Industrial Development Association](www.inter-mission.de) has 15 of its 18 branches in this city, which has a population of 8 million people in the Greater Chennai area, and focuses on giving relief and rehabilitation to people below the poverty line. 
+The [Inter-mission Industrial Development Association](http://www.inter-mission.de) has 15 of its 18 branches in this city, which has a population of 8 million people in the Greater Chennai area, and focuses on giving relief and rehabilitation to people below the poverty line. 
 
 ### Impact Direct Ministries
-Based in Cape Town, South Africa, [Impact Direct Ministries](www.impactdirect.org.za) is a faith-based organisation that targets many challenging issues, including HIV/AIDS and related issues, poverty relief, empowering previously disadvantaged people, and working with street people by providing care and support for children and adults. 
+Based in Cape Town, South Africa, [Impact Direct Ministries](http://www.impactdirect.org.za) is a faith-based organisation that targets many challenging issues, including HIV/AIDS and related issues, poverty relief, empowering previously disadvantaged people, and working with street people by providing care and support for children and adults. 
 A number of teams from Jubilee Church have been to South Africa to provide direct practical support, such as teaching computer and first aid skills. 
