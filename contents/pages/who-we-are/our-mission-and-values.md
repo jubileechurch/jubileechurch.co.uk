@@ -6,7 +6,7 @@ weight: -10
 
 Our mission statement is a summary of what we’re about and what we do, and our values are the things most important to us in the way that we go about living out our mission.
 
-One of the leaders of Jubilee Church leaders, Derek Holl, explains: 
+The Jubilee Church leader, Derek Holl, explains: 
 > "As part of the local community, we feel it is important to define our mission and values and share them. We hope they help give people some insight into what we’re about. Living out our mission and living up to our values is not always easy and we don’t always get it right, but it’s at the heart of who we are as a church."
 
 #### Our mission
