@@ -12,5 +12,11 @@ We’d love to hear from you whether you have a question, want to find out more 
 - Find us on facebook: [facebook.com/JubileeChurchBromley](http://www.facebook.com/JubileeChurchBromley)
 
 
-
-
+**Work With Us - Current Vacancies**
+Job Title: Children & Family Worker
+Location: Bromley
+Salary: £22,000 pa (pro rata)
+Hours: Part time, 18 hours per week
+Start date: As soon as possible 
+Contract type: Permanent
+[For more information and to apply visit New Wine Jobs](https://www.new-wine.org/find-a-job/job/1786)
