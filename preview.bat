@@ -1,0 +1,1 @@
+grunt wintersmith:preview
