@@ -32,7 +32,7 @@ Over the years, Jubilee Church has developed relationships with a number of chur
 We provide support financially and, where possible, on a practical level through visits to teach or help with projects. We also support one another spiritually through prayer. Here are just some our international links:
 
 ### Operation Mobilisation
-Since the early 1990s, Jubilee Church has supported [Operation Mobilisation](http://www.uk-om.org), known as OM. Working in more than 100 countries, OM’s aim is to motivate and equip people to share God’s love with others all over the world. We provide financial support and pray for them regularly.
+Since the early 1990s, Jubilee Church has supported [Operation Mobilisation](http://www.uk.om.org), known as OM. Working in more than 100 countries, OM’s aim is to motivate and equip people to share God’s love with others all over the world. We provide financial support and pray for them regularly.
 
 ### Inter-mission Industrial Development Association
 We have provided financial and prayer support for this organisation, which is based in Chennai - the largest metropolitan city in South India. 

@@ -9,7 +9,7 @@ Recess is for 11-18 year olds and takes place on Friday evenings 8-10pm during t
 
 ### What happens at Recess?
 
-Films, table tennis, pool, football, music, computer games, occasional outings to bowling, or going over to Whitehall Recreation park. Part of the evening usually includes a time of activities, competitions, or discussions based on social or moral issues and given from a Christian perspective. Occasionally we hold a lock-in where we sleep overnight at the centre and watch films, play games and chat – all ending in the morning with a cooked breakfast. You can see our latest programme of activities at on [our facebook page](www.facebook.com/recessbromley).
+Films, table tennis, pool, football, music, computer games, occasional outings to bowling, or going over to Whitehall Recreation park. Part of the evening usually includes a time of activities, competitions, or discussions based on social or moral issues and given from a Christian perspective. Occasionally we hold a lock-in where we sleep overnight at the centre and watch films, play games and chat – all ending in the morning with a cooked breakfast. You can see our latest programme of activities at on [our facebook page](http://www.facebook.com/recessbromley).
 
 ### Who is in charge?
 
