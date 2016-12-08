@@ -12,10 +12,6 @@ We’d love to hear from you whether you have a question, want to find out more 
 - Find us on facebook: [facebook.com/JubileeChurchBromley](http://www.facebook.com/JubileeChurchBromley)
 
 
-**Jobs**
-
-We are currently recruiting for a Children & Family Worker. [View the full job description here](https://www.new-wine.org/find-a-job/job/1786). The deadline for applications is 8th February 2016. Email <info@jubileechurch.co.uk> for more information
-
 
 
 
