@@ -3,7 +3,7 @@ title: Recess
 template: page.jade
 ---
 
-Recess is for 11-18 year olds and takes place on Friday evenings 8-10pm during term time. Want to know more? Keep reading…
+Recess is for 11-18 year olds in secondary education and takes place on Friday evenings 8-10pm during term time. Want to know more? Keep reading…
 
  
 
