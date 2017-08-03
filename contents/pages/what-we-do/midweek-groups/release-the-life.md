@@ -3,4 +3,4 @@ title: House Groups
 template: page.jade
 ---
 
-Every fortnight, we meet in smaller groups to pray together, learn more about God through studying the Bible and discuss interesting and relevant issues. These meetings usually take place at someone’s home and are held on a few of different evenings and we have one afternoon group.
+Every fortnight, we meet in smaller groups to pray together, learn more about God through studying the Bible and discuss interesting and relevant issues. These meetings usually take place at someone’s home and are held on a few different evenings or afternoons.
