@@ -3,7 +3,6 @@ sudo: false
 node_js:
   - "0.10.35"
 before_install: npm install -g grunt-cli
-install: npm install
 script: 
   - grunt wintersmith:build
   - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && grunt aws_s3:deploy || false'
