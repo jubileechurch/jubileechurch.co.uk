@@ -13,12 +13,12 @@
           - var sectionName = pair[0]
           - var section = pair[1]
           - var indexPage = section["index.md"]
-          if (indexPage)
+          if (indexPage && !(indexPage.metadata.hidden))
             - var hasIndexContent = indexPage.markdown.trim() != ""
             li
               if (hasIndexContent)
                 a(href=indexPage.getUrl("/"))=indexPage.title
-              else 
+              else
                 a.dropdown-toggle(href='#',data-toggle="dropdown")
                   =indexPage.title
                   b.caret
@@ -29,4 +29,3 @@
                       - var subSectionIndexPage = subSection["index.md"]
                       li
                         a(href=subSectionIndexPage.getUrl("/"))=subSectionIndexPage.title
-

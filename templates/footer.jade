@@ -1,12 +1,13 @@
+
 footer
-  .container 
+  .container
     .foot-lines.row
       p
-        |Jubilee Church is in partnership with <a href="http://www.pioneer.org.uk/">Pioneer</a>,<br/> and a member of the <a href="http://www.eauk.org/">Evangelical Alliance</a>.<br/> 
+        |Jubilee Church is in partnership with <a href="http://www.pioneer.org.uk/">Pioneer</a>,<br/> and a member of the <a href="http://www.eauk.org/">Evangelical Alliance</a>.<br/>
         |Charitable Incorporated Organisation, Registered Charity No 1154108.
       p
-        |<strong>Tel</strong> 0208 249 2801<br/> 
-        |<strong>E-mail</strong> <a href="mailto:info@jubileechurch.co.uk">info@jubileechurch.co.uk</a><br/> 
+        |<strong>Tel</strong> 0208 249 2801<br/>
+        |<strong>E-mail</strong> <a href="mailto:info@jubileechurch.co.uk">info@jubileechurch.co.uk</a><br/>
         |<strong>Address</strong> <a href="/pages/find-and-contact-us/#our-location">157 Southlands Road, Bromley, Kent, BR2 9QZ</a>
     .row.footer-menu
       ul
@@ -20,7 +21,7 @@ footer
             li(class= "col-sm-" + (indexPage.title == "What We Do" ? "8" : "2"))
               if (hasIndexContent)
                 a(href=indexPage.getUrl("/"))=indexPage.title
-              else 
+              else
                 p=indexPage.title
               ul
                 each subSectionName in _.keys(section).sort()
