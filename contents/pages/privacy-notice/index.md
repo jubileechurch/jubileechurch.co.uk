@@ -103,7 +103,7 @@ Unless subject to an exemption under the GDPR, you have the following rights wit
 
   * The right to lodge a complaint with the Information Commissioners Office. 
 
-To exercise any of those rights, please contact or Data Protection Champion by email at info@jubileechurch.co.uk or write to Jubilee Church, Jubilee Centre, 157 Southlands Road, Bromley BR2 9QZ. 
+To exercise any of those rights, please contact our Data Protection Champion by email at info@jubileechurch.co.uk or write to Jubilee Church, Jubilee Centre, 157 Southlands Road, Bromley BR2 9QZ. 
 
 If you have a concern about the way we are collecting or using your personal data, please raise your concern with us or directly to the Information Commissioner’s Office at https://ico.org.uk/concerns/ 
 
