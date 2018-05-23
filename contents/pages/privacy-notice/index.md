@@ -95,11 +95,11 @@ Unless subject to an exemption under the GDPR, you have the following rights wit
 
   * The right to withdraw your consent to the processing at any time 
 
-  * The right to request that the data controller provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability), (where applicable) *Only applies where the processing is based on consent or is necessary for the performance of a contract with the data subject and in either case the data controller processes the data by automated means*. 
+  * The right to request that the data controller provide the data subject with his/her personal data and where possible, to transmit that data directly to another data controller, (known as the right to data portability), (where applicable) - Only applies where the processing is based on consent or is necessary for the performance of a contract with the data subject and in either case the data controller processes the data by automated means. 
 
   * The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction is placed on further processing; 
 
-  * The right to object to the processing of personal data, (where applicable) *Only applies where processing is based on legitimate interests (or the performance of a task in the public interest/exercise of official authority); direct marketing and processing for the purposes of scientific/historical research and statistics*] 
+  * The right to object to the processing of personal data, (where applicable) -Only applies where processing is based on legitimate interests (or the performance of a task in the public interest/exercise of official authority); direct marketing and processing for the purposes of scientific/historical research and statistics 
 
   * The right to lodge a complaint with the Information Commissioners Office. 
 
