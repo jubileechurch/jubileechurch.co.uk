@@ -17,7 +17,7 @@ A small team of volunteers help to run Recess and the club is led by our youth w
 
 ### How much does it cost and how do I join?
 
-It’s just £1.50 per week. Recess membership is currently full, to be added to a waiting list or for more information, email [recess@jubileechurch.co.uk](mailto:recess@jubileechurch.co.uk).
+It’s just £1.50 per week. We have a few spaces for new Recess members this term so if you are interested in joining us or for more information, email [recess@jubileechurch.co.uk](mailto:recess@jubileechurch.co.uk).
 
 ### Do I have to be a Christian or join the church?
 
