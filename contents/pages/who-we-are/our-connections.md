@@ -15,7 +15,7 @@ Jubilee Church have a growing friendship and relationship with a number of churc
 ### Spinnaker
 [Spinnaker](http://www.spinnaker.org) is a charity that creates opportunities for children to engage with Christianity. It operates in over 70 schools in a number of London Boroughs, including Bromley. 
 
-Spinnaker has regular contact with over 10,000 children. Jubilee Church provides some financial support to Spinnaker, and is directly involved in its work through members of our church. One of our Core Team leaders, Steve Palmer, is a director of Spinnaker.
+Spinnaker has regular contact with over 10,000 children. Jubilee Church provides some financial support to Spinnaker, and is directly involved in its work through members of our church. 
 
 ### Pioneer Network 
 Jubilee Church is a part of the national [Pioneer network](http://www.pioneer.org.uk/) of churches established in 1985. Pioneer is a UK based group of churches committed to the sharing the good news of Jesus Christ in a non-religious way that is relevant to every sphere of society and culture.
