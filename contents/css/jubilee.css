@@ -111,6 +111,7 @@ html, body {
 
 .wrap {
   min-height: 100%;
+  margin-top: 100px;
 }
 
 .main {
@@ -221,7 +222,7 @@ footer .foot-lines a:link {
 @media(min-width: 992px) {
   .nav-side-j {
     position: fixed;
-    top: 100px;
+    top: 200px;
   }
 }
 
@@ -329,4 +330,19 @@ section img {
 
 .thumbnail .caption {
   padding: 10px 0 20px 0;
+}
+
+.notice {
+  text-align: center; 
+  margin-bottom: 1em;
+  font-size: 20px;
+  background-color: #62b85e;
+  box-shadow: -5px -5px 10px #FFF,5px -5px 10px #FFF,-5px 5px 10px #FFF,5px 5px 10px #FFF;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.notice a {
+ color: #fff;   
 }
