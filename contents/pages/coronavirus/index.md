@@ -46,7 +46,7 @@ Taking care of our mental health and wellbeing is always important, and especial
 + Young Minds has COVID-19 mental health support specifically for [young people](https://youngminds.org.uk/find-help/looking-after-yourself/coronavirus-and-mental-health/), and for [parents](https://youngminds.org.uk/find-help/for-parents/supporting-your-child-during-the-coronavirus-pandemic/) who are supporting their children too.
   
 **Christian social action**
-If you want to explore more about what is happening around the world and guidance for prayers, why not take a look at the prayer sections on some of these Christian charity websites: [Tearfund](https://www.tearfund.org/en/about_you/pray/), [Christian Aid](https://www.christianaid.org.uk/pray), [Youth with a Mission (YWAM)](https://ywam.org/get-involved-now/pray/), [Operation Mobilisation (OM)](https://www.uk.om.org/Blogs/stories), [Release International](https://releaseinternational.org/) and [Open Doors[(https://www.opendoorsuk.org/resources/churches/)
+If you want to explore more about what is happening around the world and guidance for prayers, why not take a look at the prayer sections on some of these Christian charity websites: [Tearfund](https://www.tearfund.org/en/about_you/pray/), [Christian Aid](https://www.christianaid.org.uk/pray), [Youth with a Mission (YWAM)](https://ywam.org/get-involved-now/pray/), [Operation Mobilisation (OM)](https://www.uk.om.org/Blogs/stories), [Release International](https://releaseinternational.org/) and [Open Doors](https://www.opendoorsuk.org/resources/churches/)
 
 
 If you have any questions or would like prayer or support, please email [info@jubileechurch.co.uk](mailto:info@jubileechurch.co.uk) 
