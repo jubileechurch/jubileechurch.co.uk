@@ -1,5 +1,5 @@
 ---
-title: Church During Coronavirus 2020
+title: Church During Coronavirus 2020/21
 template: page.jade
 weight: 6
 hidden: true
