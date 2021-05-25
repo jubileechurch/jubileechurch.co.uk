@@ -8,11 +8,12 @@ __A message from Jubilee Church:__
  
 Hello!  
 
-Sorry you can’t visit us in person, but it’s lovely of you to visit our website. Our building may be closed, but we are still being church! 
-Please read on for ways you can still connect with us and other useful information. 
+Thank you for visiting our website. Church is not closed... we have been being church throughout the pandemic, even when we didn't meet in the building.
+We do now have limited spaces available for those who want to join our services from the Jubilee Centre building.
+Please read on for ways you can connect with us and other useful information. 
 
 ## Sunday Services  
-Our Sunday Service has moved online, you can join us live on our Facebook page every Sunday morning from 10am. You do not need a Facebook account to watch it: [www.facebook.com/jubileechurchbromley](https://www.facebook.com/jubileechurchbromley) 
+Our Sunday Service has is online as well as in person, you can join us live on our Facebook page every Sunday morning from 10am. You do not need a Facebook account to watch it: [www.facebook.com/jubileechurchbromley](https://www.facebook.com/jubileechurchbromley). If you would like to attend in person and join the service from the Jubilee Centre, please email [info@jubileechurch.co.uk](mailto:info@jubileechurch.co.uk) and we will give you the booking details for this Sunday.
 
 
 ## Families
